@@ -1,0 +1,16 @@
+name: android_kade
+description: An new Dart Frog application
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  dart_frog: ^0.1.0
+  http:
+  beautiful_soup_dart:
+
+dev_dependencies:
+  mocktail: ^0.3.0
+  test: ^1.19.2
